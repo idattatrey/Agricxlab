@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "183811532767",
+    "firebase_url": "https://agricxlab-7373b.firebaseio.com",
+    "project_id": "agricxlab-7373b",
+    "storage_bucket": "agricxlab-7373b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183811532767:android:dd07ea07d8d2317b",
+        "android_client_info": {
+          "package_name": "com.agricx.lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183811532767-ersi0hhr4oqdae8j55huvareibat8f2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agricx.lab",
+            "certificate_hash": "1b092418a31e76859a04f807c0d1bd75041bf0c6"
+          }
+        },
+        {
+          "client_id": "183811532767-m9v5vde3p97jm8glidotrm9o3gjn6b89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMGWZ1XaGiY-atHkiw_2FnsoJRM2GaGio"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183811532767-m9v5vde3p97jm8glidotrm9o3gjn6b89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
